@@ -1,0 +1,21 @@
+[
+	SignalZeroCrossingRate
+	TotalEnergy
+	Chroma
+	SpectralCentroid
+	SpectralCrest
+	SpectralDecrease
+	SpectralFlatness
+	SpectralKurtosis
+	SpectralSkewness
+	SpectralSpread
+	Loudness
+	Sharpness
+	Spread
+	MFCC
+	PerceptualModel
+	HarmonicEnergy
+	HarmonicSpectralDeviation
+	HarmonicMultiSpectrum
+	HarmonicModel
+]
