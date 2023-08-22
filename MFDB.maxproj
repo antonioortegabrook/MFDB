@@ -2,7 +2,7 @@
 	"name" : "MFDB",
 	"version" : 1,
 	"creationdate" : 3743174887,
-	"modificationdate" : 3775570562,
+	"modificationdate" : 3775577360,
 	"viewrect" : [ 5.0, 399.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -15,6 +15,11 @@
 				"kind" : "patcher",
 				"local" : 1,
 				"toplevel" : 1
+			}
+,
+			"MFDB-db_gen.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 
 		}
@@ -666,6 +671,10 @@
 		}
 ,
 		"externals" : 		{
+
+		}
+,
+		"other" : 		{
 
 		}
 

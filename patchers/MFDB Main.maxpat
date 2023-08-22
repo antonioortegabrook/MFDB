@@ -5139,7 +5139,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 216.0, 263.0, 253.0, 22.0 ],
-									"text" : "append media/mfdb_Bicordios_05.wav"
+									"text" : "append media/mfdb_Bicordios_19.wav"
 								}
 
 							}
@@ -8370,12 +8370,12 @@
 				"box" : 				{
 					"annotation" : "",
 					"bordercolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-					"center" : [ 0.0025, 0.0025 ],
+					"center" : [ -0.046703930598806, 0.008730884308511 ],
 					"colorfield" : "Category",
 					"contentfield" : [ "FileName" ],
-					"convexcombfield" : [ "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel" ],
-					"convexcombmax" : [ 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0 ],
-					"convexcombmin" : [ 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0 ],
+					"convexcombfield" : [ "SignalZeroCrossingRate", "TotalEnergy", "SpectralFlatness", "MFCC" ],
+					"convexcombmax" : [ 1.0, 1.0, 1.0, 1.0 ],
+					"convexcombmin" : [ 0.0, 0.0, 0.0, 0.0 ],
 					"database" : "mfdb",
 					"id" : "obj-99",
 					"maxclass" : "dada.cartesian",
@@ -8402,8 +8402,8 @@
 					"versionnumber" : 30100,
 					"vzoom" : 4263.038548752834686,
 					"where" : [ "null" ],
-					"xfield" : "Number",
-					"xlabel" : "Number",
+					"xfield" : "MFCC",
+					"xlabel" : "MFCC",
 					"yfield" : "Category",
 					"ylabel" : "Category",
 					"zoom" : 4937.994730158729908
