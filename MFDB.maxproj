@@ -2,12 +2,13 @@
 	"name" : "MFDB",
 	"version" : 1,
 	"creationdate" : 3743174887,
-	"modificationdate" : 3775485293,
+	"modificationdate" : 3775570562,
 	"viewrect" : [ 5.0, 399.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
 	"autolocalize" : 0,
+	"browsertext" : "MFDB",
 	"contents" : 	{
 		"patchers" : 		{
 			"MFDB Main.maxpat" : 			{
@@ -19,1154 +20,619 @@
 		}
 ,
 		"media" : 		{
-			"Tremolos_20.wav" : 			{
+			"mfdb_Complejos_39.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Tremolos_19.wav" : 			{
+			"mfdb_Bicordios_25.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Bicordios_07.wav" : 			{
+			"mfdb_Bicordios_24.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Bicordios_04.wav" : 			{
+			"mfdb_Bicordios_23.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Tremolos_17.wav" : 			{
+			"mfdb_Bicordios_22.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Bicordios_13.wav" : 			{
+			"mfdb_Bicordios_21.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Multiarmonicos_02.wav" : 			{
+			"mfdb_Bicordios_20.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Multiarmonicos_09.wav" : 			{
+			"mfdb_Bicordios_19.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Bicordios_06.wav" : 			{
+			"mfdb_Bicordios_18.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Multiarmonicos_07.wav" : 			{
+			"mfdb_Bicordios_17.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Complejos_21.wav" : 			{
+			"mfdb_Bicordios_16.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Tremolos_18.wav" : 			{
+			"mfdb_Bicordios_15.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Complejos_18.wav" : 			{
+			"mfdb_Bicordios_14.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Tremolos_04.wav" : 			{
+			"mfdb_Bicordios_13.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Complejos_27.wav" : 			{
+			"mfdb_Bicordios_12.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Multiarmonicos_11.wav" : 			{
+			"mfdb_Bicordios_11.wav" : 			{
 				"kind" : "audiofile",
 				"local" : 1
 			}
 ,
-			"Bicordios_01.wav" : 			{
+			"mfdb_Bicordios_10.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_02.wav" : 			{
+			"mfdb_Bicordios_09.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_03.wav" : 			{
+			"mfdb_Bicordios_08.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_05.wav" : 			{
+			"mfdb_Tremolos_19.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_08.wav" : 			{
+			"mfdb_Tremolos_14.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_09.wav" : 			{
+			"mfdb_Tremolos_13.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_10.wav" : 			{
+			"mfdb_Tremolos_05.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_11.wav" : 			{
+			"mfdb_Tremolos_04.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_12.wav" : 			{
+			"mfdb_Tremolos_03.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_14.wav" : 			{
+			"mfdb_Multiarmonicos_31.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_15.wav" : 			{
+			"mfdb_Multiarmonicos_24.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_16.wav" : 			{
+			"mfdb_Multiarmonicos_23.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_17.wav" : 			{
+			"mfdb_Multiarmonicos_21.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_18.wav" : 			{
+			"mfdb_Multiarmonicos_11.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_19.wav" : 			{
+			"mfdb_Multiarmonicos_09.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_20.wav" : 			{
+			"mfdb_Multiarmonicos_07.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_21.wav" : 			{
+			"mfdb_Multiarmonicos_05.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_22.wav" : 			{
+			"mfdb_Bicordios_07.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_23.wav" : 			{
+			"mfdb_Bicordios_06.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_24.wav" : 			{
+			"mfdb_Bicordios_05.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Bicordios_25.wav" : 			{
+			"mfdb_Bicordios_04.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_01.wav" : 			{
+			"mfdb_Bicordios_03.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_02.wav" : 			{
+			"mfdb_Bicordios_02.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_03.wav" : 			{
+			"mfdb_Bicordios_01.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_04.wav" : 			{
+			"mfdb_Tremolos_24.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_05.wav" : 			{
+			"mfdb_Tremolos_23.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_06.wav" : 			{
+			"mfdb_Tremolos_22.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_07.wav" : 			{
+			"mfdb_Tremolos_21.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_08.wav" : 			{
+			"mfdb_Tremolos_20.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_09.wav" : 			{
+			"mfdb_Tremolos_18.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_10.wav" : 			{
+			"mfdb_Tremolos_17.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_11.wav" : 			{
+			"mfdb_Tremolos_16.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_12.wav" : 			{
+			"mfdb_Tremolos_15.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_13.wav" : 			{
+			"mfdb_Tremolos_12.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_14.wav" : 			{
+			"mfdb_Tremolos_11.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_15.wav" : 			{
+			"mfdb_Tremolos_10.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_16.wav" : 			{
+			"mfdb_Tremolos_09.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_17.wav" : 			{
+			"mfdb_Tremolos_08.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_19.wav" : 			{
+			"mfdb_Tremolos_07.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_20.wav" : 			{
+			"mfdb_Tremolos_06.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_22.wav" : 			{
+			"mfdb_Tremolos_02.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_23.wav" : 			{
+			"mfdb_Tremolos_01.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_24.wav" : 			{
+			"mfdb_Complejos_38.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_25.wav" : 			{
+			"mfdb_Complejos_37.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_26.wav" : 			{
+			"mfdb_Complejos_36.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_28.wav" : 			{
+			"mfdb_Complejos_35.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_29.wav" : 			{
+			"mfdb_Complejos_34.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_30.wav" : 			{
+			"mfdb_Complejos_33.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_31.wav" : 			{
+			"mfdb_Complejos_32.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_32.wav" : 			{
+			"mfdb_Complejos_31.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_33.wav" : 			{
+			"mfdb_Complejos_30.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_34.wav" : 			{
+			"mfdb_Complejos_29.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_35.wav" : 			{
+			"mfdb_Complejos_28.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_36.wav" : 			{
+			"mfdb_Complejos_27.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_37.wav" : 			{
+			"mfdb_Complejos_26.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_38.wav" : 			{
+			"mfdb_Complejos_25.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Complejos_39.wav" : 			{
+			"mfdb_Complejos_24.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_01.wav" : 			{
+			"mfdb_Complejos_23.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_03.wav" : 			{
+			"mfdb_Complejos_22.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_04.wav" : 			{
+			"mfdb_Complejos_21.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_05.wav" : 			{
+			"mfdb_Complejos_20.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_06.wav" : 			{
+			"mfdb_Complejos_19.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_08.wav" : 			{
+			"mfdb_Complejos_18.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_10.wav" : 			{
+			"mfdb_Complejos_17.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_12.wav" : 			{
+			"mfdb_Complejos_16.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_13.wav" : 			{
+			"mfdb_Complejos_15.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_14.wav" : 			{
+			"mfdb_Complejos_14.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_15.wav" : 			{
+			"mfdb_Complejos_13.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_16.wav" : 			{
+			"mfdb_Complejos_12.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_17.wav" : 			{
+			"mfdb_Complejos_11.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_18.wav" : 			{
+			"mfdb_Complejos_10.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_19.wav" : 			{
+			"mfdb_Complejos_09.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_20.wav" : 			{
+			"mfdb_Complejos_08.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_21.wav" : 			{
+			"mfdb_Complejos_07.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_22.wav" : 			{
+			"mfdb_Complejos_06.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_23.wav" : 			{
+			"mfdb_Complejos_05.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_24.wav" : 			{
+			"mfdb_Complejos_04.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_25.wav" : 			{
+			"mfdb_Complejos_03.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_26.wav" : 			{
+			"mfdb_Complejos_02.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_27.wav" : 			{
+			"mfdb_Complejos_01.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_28.wav" : 			{
+			"mfdb_Multiarmonicos_35.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_29.wav" : 			{
+			"mfdb_Multiarmonicos_34.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_30.wav" : 			{
+			"mfdb_Multiarmonicos_33.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_31.wav" : 			{
+			"mfdb_Multiarmonicos_32.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_32.wav" : 			{
+			"mfdb_Multiarmonicos_30.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_33.wav" : 			{
+			"mfdb_Multiarmonicos_29.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_34.wav" : 			{
+			"mfdb_Multiarmonicos_28.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Multiarmonicos_35.wav" : 			{
+			"mfdb_Multiarmonicos_27.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_01.wav" : 			{
+			"mfdb_Multiarmonicos_26.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_02.wav" : 			{
+			"mfdb_Multiarmonicos_25.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_03.wav" : 			{
+			"mfdb_Multiarmonicos_22.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_05.wav" : 			{
+			"mfdb_Multiarmonicos_20.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_06.wav" : 			{
+			"mfdb_Multiarmonicos_19.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_07.wav" : 			{
+			"mfdb_Multiarmonicos_18.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_08.wav" : 			{
+			"mfdb_Multiarmonicos_17.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_09.wav" : 			{
+			"mfdb_Multiarmonicos_16.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_10.wav" : 			{
+			"mfdb_Multiarmonicos_15.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_11.wav" : 			{
+			"mfdb_Multiarmonicos_14.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_12.wav" : 			{
+			"mfdb_Multiarmonicos_13.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_13.wav" : 			{
+			"mfdb_Multiarmonicos_12.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_14.wav" : 			{
+			"mfdb_Multiarmonicos_10.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_15.wav" : 			{
+			"mfdb_Multiarmonicos_08.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_16.wav" : 			{
+			"mfdb_Multiarmonicos_06.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_21.wav" : 			{
+			"mfdb_Multiarmonicos_04.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_22.wav" : 			{
+			"mfdb_Multiarmonicos_03.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_23.wav" : 			{
+			"mfdb_Multiarmonicos_02.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 ,
-			"Tremolos_24.wav" : 			{
+			"mfdb_Multiarmonicos_01.wav" : 			{
 				"kind" : "audiofile",
-				"local" : 1,
-				"singleton" : 				{
-					"bootpath" : "~/Downloads/4.5 Listado Multifónicos completo",
-					"projectrelativepath" : "../../../../../Downloads/4.5 Listado Multifónicos completo"
-				}
-
+				"local" : 1
 			}
 
 		}
