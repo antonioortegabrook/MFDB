@@ -2,8 +2,8 @@
 	"name" : "MFDB",
 	"version" : 1,
 	"creationdate" : 3743174887,
-	"modificationdate" : 3743773620,
-	"viewrect" : [ 5.0, 400.0, 300.0, 500.0 ],
+	"modificationdate" : 3775485293,
+	"viewrect" : [ 5.0, 399.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -1219,5 +1219,6 @@
 	"devpathtype" : 0,
 	"devpath" : ".",
 	"sortmode" : 0,
-	"viewmode" : 1
+	"viewmode" : 1,
+	"includepackages" : 0
 }
