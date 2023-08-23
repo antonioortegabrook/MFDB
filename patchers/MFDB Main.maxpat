@@ -40,6 +40,132 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
+					"id" : "obj-95",
+					"maxclass" : "button",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "bang" ],
+					"parameter_enable" : 0,
+					"patching_rect" : [ 1273.0, 1034.0, 24.0, 24.0 ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-91",
+					"maxclass" : "preset",
+					"numinlets" : 1,
+					"numoutlets" : 5,
+					"outlettype" : [ "preset", "int", "preset", "int", "" ],
+					"patching_rect" : [ 1507.0, 579.0, 100.0, 40.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 551.0, 306.0, 186.0, 17.0 ],
+					"preset_data" : [ 						{
+							"number" : 1,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 2,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 3,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 4,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 5,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 6,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 7,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 8,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 9,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 10,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 11,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 12,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 13,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 14,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+, 						{
+							"number" : 15,
+							"data" : [ 5, "obj-176", "bach.tree", "begin_preset", 42, 48, "obj-176", "bach.tree", "restore_preset", 0, 42, "[", "SignalZeroCrossingRate", "TotalEnergy", "Chroma", "SpectralCentroid", "SpectralCrest", "SpectralDecrease", "SpectralFlatness", "SpectralKurtosis", "SpectralSkewness", "SpectralSpread", "Loudness", "Sharpness", "Spread", "MFCC", "PerceptualModel", "HarmonicEnergy", "HarmonicSpectralDeviation", "HarmonicMultiSpectrum", "HarmonicModel", "]", "[", 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, "]", 4, "obj-176", "bach.tree", "end_preset" ]
+						}
+ ]
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-76",
+					"maxclass" : "newobj",
+					"numinlets" : 1,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 1507.0, 529.5, 103.0, 22.0 ],
+					"text" : "prepend setcheck"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-78",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 1540.0, 492.5, 35.0, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 584.0, 327.0, 35.0, 22.0 ],
+					"text" : "none"
+				}
+
+			}
+, 			{
+				"box" : 				{
+					"id" : "obj-82",
+					"maxclass" : "message",
+					"numinlets" : 2,
+					"numoutlets" : 1,
+					"outlettype" : [ "" ],
+					"patching_rect" : [ 1507.0, 492.5, 29.5, 22.0 ],
+					"presentation" : 1,
+					"presentation_rect" : [ 551.0, 327.0, 29.5, 22.0 ],
+					"text" : "all"
+				}
+
+			}
+, 			{
+				"box" : 				{
 					"id" : "obj-43",
 					"maxclass" : "message",
 					"numinlets" : 2,
@@ -5139,7 +5265,7 @@
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
 									"patching_rect" : [ 216.0, 263.0, 253.0, 22.0 ],
-									"text" : "append media/mfdb_Bicordios_19.wav"
+									"text" : "append media/mfdb_Multiarmonicos_25.wav"
 								}
 
 							}
@@ -8370,12 +8496,12 @@
 				"box" : 				{
 					"annotation" : "",
 					"bordercolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ],
-					"center" : [ -0.046703930598806, 0.008730884308511 ],
+					"center" : [ 0.0025, 0.0025 ],
 					"colorfield" : "Category",
 					"contentfield" : [ "FileName" ],
-					"convexcombfield" : [ "SignalZeroCrossingRate", "TotalEnergy", "SpectralFlatness", "MFCC" ],
-					"convexcombmax" : [ 1.0, 1.0, 1.0, 1.0 ],
-					"convexcombmin" : [ 0.0, 0.0, 0.0, 0.0 ],
+					"convexcombfield" : [ "SignalZeroCrossingRate", "SpectralSpread", "HarmonicSpectralDeviation" ],
+					"convexcombmax" : [ 1.0, 1.0, 1.0 ],
+					"convexcombmin" : [ 0.0, 0.0, 0.0 ],
 					"database" : "mfdb",
 					"id" : "obj-99",
 					"maxclass" : "dada.cartesian",
@@ -8402,8 +8528,8 @@
 					"versionnumber" : 30100,
 					"vzoom" : 4263.038548752834686,
 					"where" : [ "null" ],
-					"xfield" : "MFCC",
-					"xlabel" : "MFCC",
+					"xfield" : "Number",
+					"xlabel" : "Number",
 					"yfield" : "Category",
 					"ylabel" : "Category",
 					"zoom" : 4937.994730158729908
@@ -9642,6 +9768,7 @@
 , 			{
 				"patchline" : 				{
 					"destination" : [ "obj-188", 0 ],
+					"order" : 0,
 					"source" : [ "obj-176", 3 ]
 				}
 
@@ -9650,6 +9777,14 @@
 				"patchline" : 				{
 					"destination" : [ "obj-191", 0 ],
 					"source" : [ "obj-176", 4 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-95", 0 ],
+					"order" : 1,
+					"source" : [ "obj-176", 3 ]
 				}
 
 			}
@@ -10180,8 +10315,31 @@
 			}
 , 			{
 				"patchline" : 				{
+					"destination" : [ "obj-16", 0 ],
+					"order" : 0,
+					"source" : [ "obj-76", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-176", 0 ],
+					"order" : 1,
+					"source" : [ "obj-76", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
 					"destination" : [ "obj-60", 0 ],
 					"source" : [ "obj-77", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-76", 0 ],
+					"source" : [ "obj-78", 0 ]
 				}
 
 			}
@@ -10226,6 +10384,13 @@
 					"destination" : [ "obj-94", 0 ],
 					"order" : 1,
 					"source" : [ "obj-81", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-76", 0 ],
+					"source" : [ "obj-82", 0 ]
 				}
 
 			}
@@ -10303,6 +10468,20 @@
 				"patchline" : 				{
 					"destination" : [ "obj-43", 0 ],
 					"source" : [ "obj-90", 0 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-16", 0 ],
+					"source" : [ "obj-91", 1 ]
+				}
+
+			}
+, 			{
+				"patchline" : 				{
+					"destination" : [ "obj-176", 0 ],
+					"source" : [ "obj-91", 0 ]
 				}
 
 			}
