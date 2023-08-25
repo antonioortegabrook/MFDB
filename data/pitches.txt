@@ -34,9 +34,9 @@
 	[ [ G#5 Eq6 Cq7 Fd7 A7 ] [ G#6 ] ]
 	[ [ Gq5 Aq6 Ed7 A7 Cq8 ] [ Bd5 Fd7 G#7 ] ]
 	[ [ D#5 C7 Fd7 Ab7 Dq8 Fd8 ] [ D#6 F#6 ] ]
-	[ [ Gq5 Ed6 A6 C7 ] [ b4-1/4t Bd5 Gq6 ] ]
+	[ [ Gq5 Ed6 A6 C7 ] [ bd4 Bd5 Gq6 ] ]
 	[ [ F#6 A#6 C#7 ] [ F#5 C#6 A#7 C8 ] ]
-	[ [ Ed5 g6-1/4t Cq7 F7 G7 A7 ] [ G#5 E6 ] ]
+	[ [ Ed5 gd6 Cq7 F7 G7 A7 ] [ G#5 E6 ] ]
 	[ [ Fd5 Ad5 Gd6 C#7 Gd7 ] [ Dq7 Fq7 ] ]
 ]
 [
