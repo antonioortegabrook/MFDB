@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 960.0, 365.0, 524.0, 424.0 ],
+		"rect" : [ 416.0, 215.0, 524.0, 424.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -101,7 +101,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1164.0, 1093.0, 573.0, 35.0 ],
+					"patching_rect" : [ 1164.0, 1093.0, 573.0, 36.0 ],
 					"text" : "convexcombfield SignalZeroCrossingRate TotalEnergy Chroma SpectralCentroid SpectralCrest SpectralDecrease SpectralKurtosis SpectralSkewness SpectralSpread Sharpness HarmonicModel"
 				}
 
@@ -138,7 +138,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1164.0, 943.0, 557.0, 76.0 ],
+					"patching_rect" : [ 1164.0, 943.0, 557.0, 77.0 ],
 					"text" : "SignalZeroCrossingRate TotalEnergy Chroma FundamentalFrequency SpectralCentroid SpectralCrest SpectralDecrease SpectralFlatness SpectralKurtosis SpectralSkewness SpectralSlope SpectralSpread SpectralVariation Loudness PerceptualTristimulus RelativeSpecificLoudness Sharpness Spread MFCC PerceptualModel HarmonicEnergy HarmonicOddToEvenRatio HarmonicSpectralDeviation HarmonicTristimulus HarmonicMultiSpectrum Inharmonicity NoiseEnergy Noisiness HarmonicModel"
 				}
 
@@ -191,7 +191,7 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 1071.0, 829.0, 252.0, 35.0 ],
+					"patching_rect" : [ 1071.0, 829.0, 252.0, 36.0 ],
 					"text" : "bach.* 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29"
 				}
 
@@ -915,7 +915,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 151.13797299999996, 37.5, 70.0, 33.0 ],
+					"patching_rect" : [ 151.13797299999996, 37.5, 70.0, 34.0 ],
 					"text" : "Drop media",
 					"textjustification" : 1
 				}
@@ -951,10 +951,10 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1513.75, 335.0, 308.0, 87.0 ],
+					"patching_rect" : [ 1513.75, 335.0, 308.0, 89.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 6,
-					"presentation_rect" : [ 537.33333325386036, 731.0, 308.0, 87.0 ],
+					"presentation_rect" : [ 537.33333325386036, 731.0, 308.0, 89.0 ],
 					"text" : "Harmonic Multispectrum - Category \nHarmonic Odd to Even Ratio - Category \nHarmonic Energy - Category \nPerceptual Model - Category\nSpectral Decrease - Category\nTotal Energy - Category"
 				}
 
@@ -966,10 +966,10 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1513.75, 175.0, 308.0, 154.0 ],
+					"patching_rect" : [ 1513.75, 175.0, 308.0, 158.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 11,
-					"presentation_rect" : [ 228.137972999999988, 731.0, 308.0, 154.0 ],
+					"presentation_rect" : [ 228.137972999999988, 731.0, 308.0, 158.0 ],
 					"text" : "Spectral Decrease - Spectral Kurtosis\nSpectral Spread - Spectral Kurtosis\nSpectral Skewness - Harmonic Multispectrum\nSpectral Kurtosis - Harmonic Multispectrum\nInharmonicity - Harmonic Multispectrum\nHarmonic Spectral Deviation - Harmonic Multispectrum\n\nShaprness - Spectral Crest\nSharpness - Spectral Decrease\n\nHarmonic Model - Category"
 				}
 
@@ -991,10 +991,10 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 39.137972999999988, 864.0, 150.0, 60.0 ],
+					"patching_rect" : [ 39.137972999999988, 864.0, 150.0, 62.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 4,
-					"presentation_rect" : [ 3.137972999999988, 642.833333333333485, 150.0, 60.0 ],
+					"presentation_rect" : [ 3.137972999999988, 642.833333333333485, 150.0, 62.0 ],
 					"text" : "1 -> Complejos | \n2 -> Trémolos | \n3 -> Bicordios | \n4 -> Multiarmonicos"
 				}
 
@@ -1006,10 +1006,10 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 1513.75, 13.0, 308.0, 154.0 ],
+					"patching_rect" : [ 1513.75, 13.0, 308.0, 158.0 ],
 					"presentation" : 1,
 					"presentation_linecount" : 10,
-					"presentation_rect" : [ 3.137972999999988, 731.0, 223.0, 154.0 ],
+					"presentation_rect" : [ 3.137972999999988, 731.0, 223.0, 158.0 ],
 					"text" : "Sharpness - Centroid\nHarmonic Model - Centroid\nPerceptual Model - Centroid\nSpectral Decrease - Centroid\nSpectral Spread - Centroid\nHarmonic Multispectrum - Centroid\nMFCC - Centroid\nSpread - Centroid\nSpectral Crest - Centroid\nSpectral Flatness - Centroid\n"
 				}
 
@@ -1565,7 +1565,7 @@
 					"numinlets" : 1,
 					"numoutlets" : 2,
 					"outlettype" : [ "", "bang" ],
-					"patching_rect" : [ 147.137972999999988, 304.0, 163.0, 24.0 ],
+					"patching_rect" : [ 147.137972999999988, 304.0, 163.0, 25.0 ],
 					"text" : "dada.base mfdb mfdb.txt"
 				}
 
@@ -1589,7 +1589,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 350.0, 79.0, 1178.0, 892.0 ],
+						"rect" : [ 35.0, 84.0, 1468.0, 713.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -1617,6 +1617,7 @@
 						"style" : "",
 						"subpatcher_template" : "",
 						"assistshowspatchername" : 0,
+						"visible" : 1,
 						"boxes" : [ 							{
 								"box" : 								{
 									"id" : "obj-4",
@@ -1826,8 +1827,8 @@
 									"numinlets" : 2,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 226.0, 876.0, 319.0, 22.0 ],
-									"text" : "bach.locate Complejos Tremolos Bicordios Multiarmonicos"
+									"patching_rect" : [ 226.0, 876.0, 377.0, 22.0 ],
+									"text" : "bach.locate Complejos Tremolos Bicordios Multiarmonicos Undefined"
 								}
 
 							}
@@ -1854,8 +1855,8 @@
 									"numinlets" : 1,
 									"numoutlets" : 5,
 									"outlettype" : [ "", "", "", "", "" ],
-									"patching_rect" : [ 226.0, 839.0, 302.0, 22.0 ],
-									"text" : "regexp (Bicordios|Complejos|Multiarmonicos|Tremolos)"
+									"patching_rect" : [ 226.0, 839.0, 360.0, 22.0 ],
+									"text" : "regexp (Bicordios|Complejos|Multiarmonicos|Tremolos|Undefined)"
 								}
 
 							}
@@ -1866,7 +1867,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 5,
 									"outlettype" : [ "", "", "", "", "" ],
-									"patching_rect" : [ 534.0, 839.0, 69.0, 22.0 ],
+									"patching_rect" : [ 597.456338938372483, 839.0, 69.0, 22.0 ],
 									"text" : "regexp \\\\d+"
 								}
 
@@ -1967,7 +1968,7 @@
 									"numinlets" : 1,
 									"numoutlets" : 3,
 									"outlettype" : [ "", "float", "" ],
-									"patching_rect" : [ 108.456338938372483, 320.0, 1046.0, 49.0 ],
+									"patching_rect" : [ 108.456338938372483, 320.0, 1046.0, 50.0 ],
 									"text" : "ircamdescriptor~ 4096 4096 @window blackman @active 0 @descriptors SignalZeroCrossingRate TotalEnergy Chroma FundamentalFrequency SpectralCentroid SpectralCrest SpectralDecrease SpectralFlatness SpectralKurtosis SpectralSkewness SpectralSlope SpectralSpread SpectralVariation Loudness PerceptualTristimulus RelativeSpecificLoudness Sharpness Spread MFCC PerceptualModel HarmonicEnergy HarmonicOddToEvenRatio HarmonicSpectralDeviation HarmonicTristimulus HarmonicMultiSpectrum Inharmonicity NoiseEnergy Noisiness HarmonicModel"
 								}
 
@@ -1980,7 +1981,7 @@
 									"numinlets" : 29,
 									"numoutlets" : 1,
 									"outlettype" : [ "" ],
-									"patching_rect" : [ 76.8275813358118, 671.0, 1008.089917695488793, 49.0 ],
+									"patching_rect" : [ 76.8275813358118, 671.0, 1008.089917695488793, 50.0 ],
 									"saved_object_attributes" : 									{
 										"versionnumber" : 80102
 									}
@@ -2337,7 +2338,7 @@
 									"numinlets" : 30,
 									"numoutlets" : 30,
 									"outlettype" : [ "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" ],
-									"patching_rect" : [ 108.456338938372483, 419.0, 1047.0, 49.0 ],
+									"patching_rect" : [ 108.456338938372483, 419.0, 1047.0, 50.0 ],
 									"text" : "route SignalZeroCrossingRate TotalEnergy Chroma FundamentalFrequency SpectralCentroid SpectralCrest SpectralDecrease SpectralFlatness SpectralKurtosis SpectralSkewness SpectralSlope SpectralSpread SpectralVariation Loudness PerceptualTristimulus RelativeSpecificLoudness Sharpness Spread MFCC PerceptualModel HarmonicEnergy HarmonicOddToEvenRatio HarmonicSpectralDeviation HarmonicTristimulus HarmonicMultiSpectrum Inharmonicity NoiseEnergy Noisiness HarmonicModel"
 								}
 
@@ -3240,7 +3241,7 @@
  ]
 					}
 ,
-					"patching_rect" : [ 147.137972999999988, 150.0, 174.0, 24.0 ],
+					"patching_rect" : [ 147.137972999999988, 150.0, 174.0, 25.0 ],
 					"saved_object_attributes" : 					{
 						"description" : "",
 						"digest" : "",
@@ -3402,216 +3403,224 @@
 			}
  ],
 		"dependency_cache" : [ 			{
-				"name" : "bach.<=.mxo",
-				"type" : "iLaX"
+				"name" : "bach.<=.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.args.mxo",
-				"type" : "iLaX"
+				"name" : "bach.args.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.collect.mxo",
-				"type" : "iLaX"
+				"name" : "bach.collect.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.contains.mxo",
-				"type" : "iLaX"
+				"name" : "bach.contains.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.depth.mxo",
-				"type" : "iLaX"
+				"name" : "bach.depth.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.diff.mxo",
-				"type" : "iLaX"
+				"name" : "bach.diff.mxe64",
+				"type" : "mx64"
 			}
 , 			{
 				"name" : "bach.div.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "bach.eq.mxo",
-				"type" : "iLaX"
+				"name" : "bach.eq.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.expr.mxo",
-				"type" : "iLaX"
+				"name" : "bach.expr.mxe64",
+				"type" : "mx64"
 			}
 , 			{
 				"name" : "bach.filter.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "bach.find.mxo",
-				"type" : "iLaX"
+				"name" : "bach.find.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.flat.mxo",
-				"type" : "iLaX"
+				"name" : "bach.flat.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.geq.mxo",
-				"type" : "iLaX"
+				"name" : "bach.geq.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.group.mxo",
-				"type" : "iLaX"
+				"name" : "bach.group.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.gt.mxo",
-				"type" : "iLaX"
+				"name" : "bach.gt.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.is.mxo",
-				"type" : "iLaX"
+				"name" : "bach.is.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.iter.mxo",
-				"type" : "iLaX"
+				"name" : "bach.iter.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.join.mxo",
-				"type" : "iLaX"
+				"name" : "bach.join.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.keys.mxo",
-				"type" : "iLaX"
+				"name" : "bach.keys.mxe64",
+				"type" : "mx64"
 			}
 , 			{
 				"name" : "bach.locate.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "bach.lookup.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "bach.lt.mxo",
-				"type" : "iLaX"
+				"name" : "bach.lt.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.mapelem.mxo",
-				"type" : "iLaX"
+				"name" : "bach.mapelem.mxe64",
+				"type" : "mx64"
 			}
 , 			{
 				"name" : "bach.mean.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "bach.minmax.mxo",
-				"type" : "iLaX"
+				"name" : "bach.minmax.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.neq.mxo",
-				"type" : "iLaX"
+				"name" : "bach.neq.mxe64",
+				"type" : "mx64"
 			}
 , 			{
 				"name" : "bach.norm.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "bach.normalize.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "bach.nth.mxo",
-				"type" : "iLaX"
+				"name" : "bach.nth.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.pack.mxo",
-				"type" : "iLaX"
+				"name" : "bach.pack.mxe64",
+				"type" : "mx64"
 			}
 , 			{
 				"name" : "bach.path2llll.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "bach.pick.mxo",
-				"type" : "iLaX"
+				"name" : "bach.pick.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.portal.mxo",
-				"type" : "iLaX"
+				"name" : "bach.portal.mxe64",
+				"type" : "mx64"
 			}
 , 			{
 				"name" : "bach.prepend.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "bach.read.mxo",
-				"type" : "iLaX"
+				"name" : "bach.read.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.reg.mxo",
-				"type" : "iLaX"
+				"name" : "bach.reg.mxe64",
+				"type" : "mx64"
 			}
 , 			{
 				"name" : "bach.sieve.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "bach.slice.mxo",
-				"type" : "iLaX"
+				"name" : "bach.slice.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "bach.sort.mxo",
-				"type" : "iLaX"
+				"name" : "bach.sort.mxe64",
+				"type" : "mx64"
 			}
 , 			{
 				"name" : "bach.sum.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
+			}
+, 			{
+				"name" : "bach.textin.mxe64",
+				"type" : "mx64"
+			}
+, 			{
+				"name" : "bach.textout.mxe64",
+				"type" : "mx64"
 			}
 , 			{
 				"name" : "bach.times.maxpat",
 				"bootpath" : "~/Documents/Max 8/Packages/bach/patchers",
-				"patcherrelativepath" : "../../../../../Max 8/Packages/bach/patchers",
+				"patcherrelativepath" : "../../../Max 8/Packages/bach/patchers",
 				"type" : "JSON",
 				"implicit" : 1
 			}
 , 			{
-				"name" : "bach.wrap.mxo",
-				"type" : "iLaX"
+				"name" : "bach.wrap.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "dada.base.mxo",
-				"type" : "iLaX"
+				"name" : "dada.base.mxe64",
+				"type" : "mx64"
 			}
 , 			{
-				"name" : "ircamdescriptor~.mxo",
-				"type" : "iLaX"
+				"name" : "ircamdescriptor~.mxe64",
+				"type" : "mx64"
 			}
  ],
 		"autosave" : 0
